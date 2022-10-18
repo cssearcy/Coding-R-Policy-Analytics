@@ -11,21 +11,21 @@
 
 
 github_info:
-    username:       DS4PS   # GitHub account name
+    username:       cssearcy   # GitHub account name
     branch:         master
-    website-repo:   intro-data-science-TEMPLATE
-    course-repo:    intro-data-science-TEMPLATE
+    website-repo:   Coding-R-Policy-Analytics
+    course-repo:    Coding-R-Policy-Analytics
  
-description:        Intro. course in data science
+description:        Coding in R for Policy Analytics
 
 url:                "https://ds4ps.github.io"
-baseurl:            "/intro-data-science-TEMPLATE"
+baseurl:            "/Coding-R-Policy-Analytics"
 course_url:         "https://ds4ps.github.io/intro-data-science-TEMPLATE/"
-title:              ds4ps   # GitHub account name
+title:              cssearcy   # GitHub account name
 
 brand:
     image:          # logo.svg  # e.g. logo.png, upload logo image file to /assets/img/ folder
-    text:           "Intro to Data Science"    # if the above "logo:" image variable  is not set, this text logo is displayed instead
+    text:           "Coding in R for Policy Analytics"    # if the above "logo:" image variable  is not set, this text logo is displayed instead
 
 
 
@@ -48,8 +48,8 @@ program-website:    "https://ds4ps.org/ms-prog-eval-data-analytics/courses/"
 ###
 
 author:
-    name:       Jamison Crawford
-    github:     jamisoncrawford   # Github username for avatar
+    name:       Cynthia Searcy
+    github:     cssearcy   # Github username for avatar
 
 
 # app for scheduling virtual office hours appointments
