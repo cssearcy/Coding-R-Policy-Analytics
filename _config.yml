@@ -18,9 +18,9 @@ github_info:
  
 description:        Coding in R for Policy Analytics
 
-url:                "https://ds4ps.github.io"
+url:                "https://cssearcy.github.io"
 baseurl:            "/Coding-R-Policy-Analytics"
-course_url:         "https://ds4ps.github.io/intro-data-science-TEMPLATE/"
+course_url:         "https://cssearcy.github.io/Coding-R-Policy-Analytics/"
 title:              cssearcy   # GitHub account name
 
 brand:
